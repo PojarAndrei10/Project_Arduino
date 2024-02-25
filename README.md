@@ -1,0 +1,3 @@
+# Dino Game in Arduino
+The ''Dino Game'' project was conceived as an introduction to hardware programming and simple game development on the Arduino platform. Inspired by the popular offline game ,,Chrome Dino Run'', this project brings the same fun and addictive experience to an affordable hardware platform like Arduino.
+The project uses a number of common hardware components such as an LCD screen, an Arduino Uno board, a buzzer, connection wires, a breadboard, a potentiometer and resistors. The source code includes graphics management for characters and obstacles, game logic and user interaction via buttons.
